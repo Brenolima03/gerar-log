@@ -7,6 +7,7 @@ public class BaixarLogsDoDia {
     public static void main(String[] args) {
         String baseUrl = "";
         String extension = ".log";
+        // Exemplo de x: 20230101
         int initialX = 0;
         int finalX = 0;
         int initialY = 0;
